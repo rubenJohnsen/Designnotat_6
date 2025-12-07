@@ -12,3 +12,5 @@ figurene i kapittel *Realisering og test* i **Designnotat 6**.
   - beregne spenningsforsterkning og THD
   - generere Bode-plott, tidsdomeneplott og FFT-figurer
 - `figures/` – eksporterte figurer som brukes direkte i rapporten.
+- `waveforms/` – skjermbilder fra WaveForms (oscilloskop og FFT) som viser
+  hvordan amplitude og THD ble målt.
