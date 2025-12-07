@@ -7,8 +7,8 @@ figurene i kapittel *Realisering og test* i **Designnotat 6**.
 
 - `data/` – rå måledata fra Analog Discovery 2 (åpen sløyfe og lukket sløyfe, 
   ulike laster og amplituder).
-- `scripts/` – Python/MATLAB-skript for å:
+- `scripts/` – Python-skript for å:
   - laste inn data
-  - beregne spenningsforsterkning og THD (jf. ligningene \eqref{eq:forsterkning}–\eqref{eq:THD} i notatet)
+  - beregne spenningsforsterkning og THD
   - generere Bode-plott, tidsdomeneplott og FFT-figurer
 - `figures/` – eksporterte figurer som brukes direkte i rapporten.
